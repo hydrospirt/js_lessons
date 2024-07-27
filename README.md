@@ -15,7 +15,7 @@
 #### Заметка 1:
 `01_alert_lesson` - Привет мир! Вывод alert'ов JavaScript
 > <p><em> <b>;</b> - между alert'ами лучше ставить, так как парсер может пропустить и будет ошибка.</em>
-> <em>Для отображении кириллицы использовать в самом html <code>&lt;meta charset="utf-8"&gt;</code> или в <code>&lt;script charset="utf-8"&gt;</code></em></p>
+> <em>Для отображении кириллицы использовать в самом html <code>&lt;meta charset="utf-8"&gt;</code> или в тэге <code>&lt;script charset="utf-8"&gt;</code></em></p>
 ---
 #### Заметка 2:
 
